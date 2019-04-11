@@ -1,0 +1,60 @@
+/* website styles */
+* {
+  font-size: 100%;
+}
+body{
+  background-color: brown;
+  color: red;
+  font-family:Cursive;
+  font-size: 20px;
+}
+header {
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  background-color: red;
+  font-size: 80px;
+  color: yellow;
+  font-family: 'Showcard Gothic'
+}
+
+h2 {
+  font-size: 40px;
+  color: yellow;
+}
+
+h4 {
+  font-size: 40px;
+  color: white;
+  font-family: 'Germania One' Cursive;
+}
+
+a {
+  font-size: 2s0px;
+  color: blue;
+}
+
+h3 {
+  background-color: green;
+  font-size: 30px;
+  color: yellow;
+}
+
+p {
+  line-height: 1.25;
+  font-size: 20px;
+  color: white;
+  font-family: 'Helvetica'
+}
+
+li {
+  background-color: green;
+  font-size: 25px;
+  color: yellow;
+}
+h2,h3,h4 {
+  font-weight: 900;
+  font-style: normal;
+}
+h1
